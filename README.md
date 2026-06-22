@@ -28,9 +28,7 @@
 
 *(Добавь сюда скриншоты экранов)*
 
-| Главный экран | Добавление | Статистика | Настройки |
-|:---:|:---:|:---:|:---:|
-| ![Home](screenshots/home.png) | ![Add](screenshots/add.png) | ![Stats](screenshots/stats.png) | ![Settings](screenshots/settings.png) |
+
 
 ## 🚀 Запуск
 
