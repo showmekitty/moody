@@ -1,0 +1,1 @@
+ C:\\Users\\Asrock\\StudioProjects\\moody\\.dart_tool\\flutter_build\\6cfd0c2c1576206325bfd0576afca752\\native_assets.json: 
